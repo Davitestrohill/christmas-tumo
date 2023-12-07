@@ -7,4 +7,5 @@ public class Ornament : MonoBehaviour
 
     public Renderer BodyRenderer => bodyRenderer;
     public Rigidbody SphereRigidbody => sphereRigidbody;
+    public Sprite screenshot;
 }
