@@ -111,7 +111,7 @@ Material:
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
-    - _IOR_Medium: 24.95
+    - _IOR_Medium: 60.7
     - _IOR_Source: 1.7
     - _Metalic: 0.3
     - _Metallic: 0

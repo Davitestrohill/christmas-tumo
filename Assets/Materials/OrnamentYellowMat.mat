@@ -27,6 +27,8 @@ Material:
     m_Ints: []
     m_Floats:
     - _Full_Glow_Distance: 3
+    - _IOR_Medium: 67.17
+    - _IOR_Source: 0.95
     m_Colors:
     - _Color: {r: 0.7411765, g: 0.8, b: 0.011764706, a: 1}
     - _Glow_Color: {r: 5.9921565, g: 3.4543836, b: 1.6593666, a: 1}
