@@ -40,6 +40,7 @@ public class OrnamentSpawner : MonoBehaviour
 
             button.OnButtonClick += () => SelectOrnamentMaterial(material);
         }
+
         
         // Disable the ornament button prefab
         colorButtonPrefab.gameObject.SetActive(false);
@@ -109,6 +110,7 @@ public class OrnamentSpawner : MonoBehaviour
             if (hit.collider.CompareTag("OrnamentPosition"))
             {
                 OrnamentPosition ornamentPosition = hit.collider.GetComponent<OrnamentPosition>();
+                Debug.Log(hit.collider);
 
                 if (!ornamentPosition.HasOrnament)
                 {

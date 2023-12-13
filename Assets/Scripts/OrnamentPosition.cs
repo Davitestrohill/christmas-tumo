@@ -1,9 +1,11 @@
 using UnityEngine;
+using System.IO;
 
 public class OrnamentPosition : MonoBehaviour
 {
     private Ornament _attachedOrnament;
     private OrnamentData _attachedOrnamentData;
+    public string filePath = System.IO.Path.Combine(System.Environment.GetFolderPath(System.Environment.SpecialFolder.Desktop), "");
 
     public OrnamentData AttachedOrnamentData
     {
@@ -19,10 +21,13 @@ public class OrnamentPosition : MonoBehaviour
             _attachedOrnament.SetMaterial(Resources.Load<Material>("Materials/" + _attachedOrnamentData.material));
             _attachedOrnament.text = _attachedOrnamentData.text;
 
-            string json = JsonUtility.ToJson(_attachedOrnamentData);
-            PlayerPrefs.SetString(gameObject.name, json);
-            PlayerPrefs.Save();
-            Debug.Log(json);
+            //string json = JsonUtility.ToJson(_attachedOrnamentData);
+            //string jsonContent = File.ReadAllText(filePath);
+            //jsonContent += json;
+            //File.WriteAllText(filePath, jsonContent);
+
+            //PlayerPrefs.SetString(gameObject.name, json);
+            //PlayerPrefs.Save();
         }
     }
 
