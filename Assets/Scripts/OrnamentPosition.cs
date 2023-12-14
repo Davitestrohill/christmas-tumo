@@ -5,7 +5,7 @@ public class OrnamentPosition : MonoBehaviour
 {
     private Ornament _attachedOrnament;
     private OrnamentData _attachedOrnamentData;
-    public string filePath = System.IO.Path.Combine(System.Environment.GetFolderPath(System.Environment.SpecialFolder.Desktop), "");
+    public string filePath = System.IO.Path.Combine(System.Environment.GetFolderPath(System.Environment.SpecialFolder.Desktop), "Data.json");
 
     public OrnamentData AttachedOrnamentData
     {

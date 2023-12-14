@@ -20,6 +20,7 @@ public class ChristmasTree : MonoBehaviour
                 ornamentPosition.AttachedOrnamentData = ornamentData;
             }
         }
+
     }
     private void Update()
     {

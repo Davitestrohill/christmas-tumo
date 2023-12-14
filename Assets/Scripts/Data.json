@@ -1,18 +1,1 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
-public class NewBehaviourScript : MonoBehaviour
-{
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-}
+{"ornaments":[{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"OrnamentKant","material":"OrnamentBlueMat","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"OrnamentMher","material":"OrnamentBlueMat","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"OrnamentKant","material":"OrnamentGreenMat","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"OrnamentKant","material":"OrnamentGreenMat","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""},{"prefab":"OrnamentStar","material":"OrnamentPurpleMat","text":""},{"prefab":"","material":"","text":""},{"prefab":"","material":"","text":""}]}
